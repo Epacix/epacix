@@ -1,5 +1,4 @@
-### Hi there 👋
-## Hello, world 👋. I'm Dzulfikar
+## Hi there 👋. I'm Dzulfikar
 [![Telegram](https://img.shields.io/static/v1?label=%20&message=Telegram&logo=Telegram&style=flat&labelColor=grey)](https://t.me/epacix)
 [![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=LinkedIn&style=flat&labelColor=grey)](https://www.linkedin.com/in/dzulfi/)
 
